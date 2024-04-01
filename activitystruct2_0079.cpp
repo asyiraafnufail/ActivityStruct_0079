@@ -1,14 +1,14 @@
 #include <iostream>
 using namespace std;
 
-struct DetailAlamat{
+struct DetailAlamat {
     string desa;
-    string kota:
-}
+    string kota;
+};
 
 struct Mahasiswa {
     string nim;
     string nama;
-    string alamat;
+    DetailAlamat alamat;
     string umur;
 };
