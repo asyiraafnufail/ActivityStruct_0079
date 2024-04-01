@@ -19,5 +19,5 @@ int main() {
     cout << "Umur Mahasiswa : ";
     cin >> mhs.umur;
 
-    
+    cout << endl;
 }
